@@ -27,7 +27,7 @@ A responsive landing page concept for Prodesk IT, built with semantic HTML5, raw
 
 Deploy this folder as a static site using Netlify or Vercel. After deployment, add the real public URL below and include a screenshot of the deployed page in this README as required by the sprint.
 
-* **Live URL:** https://cheery-kheer-b0cf92.netlify.app/
+* **Live URL:** (https://prodesk-it-landing-page-web.netlify.app)
 * **Screenshot:** See [screenshot.png.jpeg](screenshot.png.jpeg) for the full-page landing page screenshot.
 
 ## QA checklist
